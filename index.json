@@ -6,7 +6,7 @@
     },
     "traffic_text": "IMPORTANT: To verify that you are a human and not a bot, you need to Rate the app and share it with at least one friend.",
     "traffic_url": "https://play.google.com/store/apps/details?id=com.prank.fakepost.faker",
-    "in_app_browser": "false",
+    "in_app_browser": "true",
     "articles": [
         {
             "title": "Title 1",
